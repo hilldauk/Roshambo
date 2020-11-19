@@ -1,0 +1,25 @@
+{
+  "name": "roshambo",
+  "version": "1.0.0",
+  "description": "Play Roshambo against a computer",
+  "main": "Roshambo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan-mcduffie/Roshambo.git"
+  },
+  "keywords": [
+    "Roshambo"
+  ],
+  "author": "Logan McDuffie & Kendra Hill-Daughton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logan-mcduffie/Roshambo/issues"
+  },
+  "homepage": "https://github.com/logan-mcduffie/Roshambo#readme",
+  "dependencies": {
+    "yargs": "^16.1.1"
+  }
+}
