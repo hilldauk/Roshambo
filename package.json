@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/logan-mcduffie/Roshambo#readme",
   "dependencies": {
+    "commander": "^6.2.0",
+    "mocha": "^8.2.1",
     "yargs": "^16.1.1"
   }
 }
